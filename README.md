@@ -1,8 +1,8 @@
 ﻿# 최 영 서
 
 ### 1. 인적사항 (Personal Information)
-**이름: ** 최영서 (Chio Yeongseo)
-**생년월일: ** 1994.04.12
+__이름:__ 최영서 (Chio Yeongseo)
+__생년월일:__ 1994.04.12
 
 ### 2. 학력 (Education)
 | 입학년월 | 졸업년월 | 출신학교 | 전공 | 평균/평점 |
@@ -11,6 +11,23 @@
 | 2013.03 | 2017.08 예정 | 한성대학교 | 컴퓨터공학부 | 3.55/4.5 |
 
 ### 3. 보유기술 (Technical Skills)
+#### 3.1 Basics
+* Programming Languages: C, __C++__, __Java__, Javascript
+* Operating Systems: ~~Linux~~
+* IDE : Eclipse
+
+#### 3.2 Web Development
+* Java Development Framework: MVC, Spring, ~~Struts~~
+* DB 응용 개발: Mysql, MS
+* Server: Apache web server, Tomcat
+* Testing: JUnit
+
+#### 3.3 Sofrware Tools
+* Version Control System: __Git__
+* issue tracking: JIRA
+* Build tools: Maven
+
+
 
 ### 4. 어학 및 자격증 (Certidicate)
 | 자격증명 | 발급일자 | 발급기관 |
