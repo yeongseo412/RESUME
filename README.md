@@ -13,11 +13,11 @@ __생년월일:__ 1994.04.12
 ### 3. 보유기술 (Technical Skills)
 #### 3.1 Basics
 * Programming Languages: C, __C++__, __Java__, Javascript
-* Operating Systems: ~~Linux~~
+* Operating Systems: Linux
 * IDE : Eclipse
 
 #### 3.2 Web Development
-* Java Development Framework: MVC, Spring, ~~Struts~~
+* Java Development Framework: MVC, Spring
 * DB 응용 개발: Mysql, MS
 * Server: Apache web server, Tomcat
 * Testing: JUnit
@@ -27,13 +27,10 @@ __생년월일:__ 1994.04.12
 * issue tracking: JIRA
 * Build tools: Maven
 
-
-
 ### 4. 어학 및 자격증 (Certidicate)
 | 자격증명 | 발급일자 | 발급기관 |
 | :---: | :---: | :---: |
 | 정보처리기사 | 2016.11 | 한국산업인력공단 |
-| 심폐소생술 및 AED | 2012.09 | 대한심폐소생협회 |
 
 ### 5. 수상 및 경력 (Awards & Career)
 | 수상명 | 내용 | 수상일자 | 기관 |
@@ -42,7 +39,7 @@ __생년월일:__ 1994.04.12
 
 | 경력 구분 | 활동 내용 | 기간 | 기관 |
 | :---: | :---: | :---: | :---: |
-| IPP 인턴쉽 프로그램 | 콜센터 관련 웹 프로그래밍 | 2017.01 ~ 2017.08 (예정) | (주)넥스프론 |
+| IPP 인턴쉽 프로그램 | 콜센터 관련 웹 프로그래밍 | 2017.01 ~ 2017.08 | (주)넥스프론 |
 | 대외 활동 | IT 관련 서적 서포터즈 | 2016.01 ~ 2016.02 | 이지스퍼블리싱 |
 
 ##### Contact
